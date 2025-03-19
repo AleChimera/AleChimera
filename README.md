@@ -1,5 +1,6 @@
-## Hi there 👋
+# GREETINGS, PROFESSOR FALKEN
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM2aGVlMzB4NWk5cDV0dXdneXoydHBjNm0xanQ2MzZqd29venJpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h3f0aty4RK3ADKenIc/giphy.gif"/>
 <!--
 **AleChimera/AleChimera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
